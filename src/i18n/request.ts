@@ -1,4 +1,5 @@
 import { getRequestConfig } from "next-intl/server";
+import type { AbstractIntlMessages } from "next-intl";
 import { routing } from "./routing";
 import { headers } from "next/headers";
 
@@ -23,6 +24,6 @@ export default getRequestConfig(async ({ requestLocale }) => {
     }
   }
 
-  const messages = (await messageLoaders[locale as keyof typeof messageLoaders]()).default;
+  const messages = (await messageLoaders[locale as keyof typeof messageLoaders]()).default as unknown as AbstractIntlMessages;
   return { locale, messages };
 });
