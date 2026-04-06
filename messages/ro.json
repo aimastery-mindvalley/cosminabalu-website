@@ -1,0 +1,257 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "services": "Servicii",
+    "blog": "Blog",
+    "story": "Povestea Mea",
+    "contact": "Contact"
+  },
+  "home": {
+    "heroHeading": "Pentru a te elibera de condiționarea care îți înveninează sufletul!!! Găsește-ți vocea!",
+    "heroBodyHeading": "Pentru a experimenta o viață de bucurie și iubire!\nGăsește-ți vocea!",
+    "heroParagraph1": "Pentru voi, cei care ați inițiat deja calea transformării și descoperirii, dar vă simțiți blocați pentru că încă vă aflați căzând în momente în care vă faceți griji cu privire la opiniile altora despre alegerile, acțiunile, deciziile dvs. Cazi în capcana «a ceea ce spun alții despre mine» un fel de supunere față de autoritatea, validarea, aprobarea sau aprecierea lor. Descoperi că vocea ta este ruptă, este lipsită de putere, lipsită de viață, că adopți comportamentul «People pleaser»",
+    "heroParagraph2": "Te simți blocat, nu îți asumi riscuri, ți-e frică să-ți exprimi propriile opinii și adevăr? Ești un suflet rebel?",
+    "heroParagraph3": "Acesta este momentul să vă eliberați sufletul și să vă exprimați unicitatea.",
+    "heroParagraph4": "Vă voi arăta tehnici simple, intuitive și ghidate pentru a lucra cu voi treptat pe calea auto-evoluției. Uneori, o simplă schimbare de vocabular, îți va facilita foarte mult transformarea.",
+    "servicesHeading": "Serviciile mele de Coaching",
+    "service1": "Blocat în viață? => Nu vă asumați niciun risc, vă este frică să spuneți adevărul? => Vorbește fără frică! Găsește-ți vocea!",
+    "service2": "Te simți plictisită, tristă? => Ieși din carapacea ta. Fii autentică. Fii veselă. Găsește bucuria din nou!",
+    "service3": "Ești celibatară în căutarea unui partener? => Devii partenarul tău ideal mai întâi!",
+    "service4": "Trăiește libertatea de a FI! Ia o pauză de a FACE!",
+    "service5": "Lectură Tarot => pentru a face o lectură de ansamblu asupra vieții persoanei care consultă",
+    "servicesCta": "Descoperă Serviciile mele de Coaching",
+    "aboutBadge": "Coach & Teacher & Mentor",
+    "aboutHeading": "O privire de ansamblu despre Cosmina",
+    "aboutIntro": "De la începutul încarnării mele pe planetă mi s-a spus în mod constant:",
+    "aboutList": [
+      "Că sunt o biată fetiță abandonată de părinții mei,",
+      "Că trebuie să dovedesc că merit să fiu hrănită, acceptată și iubită,",
+      "Că nu pot face ce vreau, dar ceea ce am voie să fac,",
+      "Că nu merit nimic de viață, că singurul meu merit este să fiu pedepsită, pentru că eu sunt lipsit de valoare,",
+      "Că trebuie să fiu responsabilă și răspunzătoare în fața oamenilor care mi-au spus că s-au sacrificat pentru mine,",
+      "Că și eu am datoria să mă sacrific,",
+      "Pentru că așa stau lucrurile pe la noi!"
+    ],
+    "aboutParagraph2": "Am călătorit greu cu toate aceste credințe, tradiții, limite în inconștientul meu până într-o zi când am luat decizia de a mă elibera și de a-mi găsi vocea, puterea, viața, pe mine. Acum sunt drumul vieții mele de libertate, putere și iubire.",
+    "aboutJoy": "Bucuria este Busola mea!",
+    "aboutTarot": "În călătoria mea spirituală am descoperit cărțile de TAROT! Un instrument de orientare și ghidare în viața noastră de zi cu zi.",
+    "aboutCta": "Mai multe despre mine",
+    "newsletterHeading": "Vrei să co-creem o lume lipsită de frică?",
+    "newsletterName": "Nume & Prenume",
+    "newsletterEmail": "Adresa Email",
+    "newsletterButton": "Abonează-te",
+    "heroTitle": "Găsește-ți Vocea",
+    "heroSubtitle": "Coaching personalizat"
+  },
+  "services": {
+    "heading": "Servicii",
+    "subheading": "Serviciile mele se adresează persoanelor care sunt hotărâte să trăiască fără limite impuse artificial!",
+    "path1Title": "Vorbește fără teamă cu autoritățile!",
+    "path1Present": "1. În prezent, ai dificultăți când trebuie să vorbești cu persoane aflate în poziție de autoritate.",
+    "path1Journey": "2. Înveți să te eliberezi de frica care te paralizează",
+    "path1Result": "3. Găsești libertatea de exprimare! Devii propria ta autoritate! Fantastic!",
+    "path2Title": "Descoperirea ceea ce doriți să experimentați",
+    "path2Present": "1. În prezent, suferi când vezi ce se întâmplă în lume",
+    "path2Journey": "2. Înveți să dezvolți starea de Neutralitate – să vezi Perfecțiunea în tot",
+    "path2Result": "3. Te concentrezi asupra ta și descoperi ce vrei să trăiești!",
+    "path3Title": "Manifestarea unui partener intim",
+    "path3Present": "1. În prezent ești singur/ă și vrei să fii într-o relație",
+    "path3Journey": "2. Înveți cum să devii, tu însuți/însăți, un partener ideal",
+    "path3Result": "3. Lași partenerul să vină în viața ta",
+    "path4Title": "Găsirea libertății de a fi!",
+    "path4Present": "1. În prezent muncești din greu, nu îți acorzi timp de odihnă",
+    "path4Journey": "2. Înveți să nu faci nimic! Înveți să FII!",
+    "path4Result": "3. Găsești libertatea de a fi! Trăiești viața!",
+    "tarotTitle": "Prima ședință: Lectură folosind cărțile de TAROT",
+    "tarotHeading": "Tarot",
+    "tarotText": "Cărțile de Tarot sunt un instrument pe care îl găsesc extrem de util și îl folosesc ca instrument de ghidare în timpul parcursului persoanei. Iată câteva mărturii ale persoanelor care au beneficiat de acest instrument atât de puternic.",
+    "tarotInspiration": "Justine Alessi, Deborah Waltz și Inelia Benz au fost inspirațiile mele în această călătorie.",
+    "testimonialsCoachingTitle": "Mărturii - Coaching",
+    "tarotTestimonialsTitle": "Mărturii - TAROT",
+    "ctaText": "Contactați-mă pentru a discuta mai în profunzime ACUM!",
+    "ctaButton": "Trimite Mesaj",
+    "presentLabel": "Starea actuală",
+    "journeyLabel": "Parcursul",
+    "resultLabel": "Rezultatul",
+    "testimonialsCoaching": [
+      {
+        "name": "Sophie Ginfalean",
+        "text": "Cosmina a fost pentru mine un ghid în înțelegerea emoțiilor și comportamentelor mele. Cu sprijinul și ajutorul ei, am reușit să înțeleg treptat ce nu mergea și să avansez în direcția pe care o doream cu adevărat. Mi-am crescut stima de sine și am văzut îmbunătățiri frumoase în viața mea."
+      },
+      {
+        "name": "Coralie Siohan",
+        "text": "Cosmina face viața mai frumoasă, prin buna ei dispoziție contagioasă, prin modul în care traversează momentele dificile. Ea este un model de inspirație. Mi-a permis să mă cunosc pe mine însămi. M-a ghidat în explorarea mea interioară, am trecut de la stadiul în care suportam fiecare emoție la analiza emoției în sine."
+      },
+      {
+        "name": "Andreea Dumitrescu",
+        "text": "Mă simțeam blocată într-un moment al vieții mele, chiar dacă știam că am un viitor incredibil în față. Cosmina m-a ajutat să văd lumea diferit și să înțeleg că eu îmi controlez viața."
+      },
+      {
+        "name": "Lamyaa",
+        "text": "Fără să-mi dau seama, trăiam într-o lume a regretului și a vinovăției. Cosmina m-a ajutat să identific ceea ce mă făcea întotdeauna tristă. Are un mare simț al ascultării, inspiră foarte mare încredere și știe cum să mă pună foarte la largul meu."
+      },
+      {
+        "name": "Kay Thiri Khine — TDA",
+        "text": "Ce este atât de unic la Cosmina? Este o persoană rară care se îngrijorează cu adevărat pentru tine și simți că este prezentă de fiecare dată când ești cu ea. Nu este «în altă parte», este cu adevărat prezentă. În zilele noastre, asta este rar."
+      },
+      {
+        "name": "Lali Torma — Pictor",
+        "text": "Cosmina este o forță a naturii. Când deschizi ușa și îi vezi privirea vie și marele zâmbet, ești fermecată pe loc. Autenticitatea ei face ca ea să pună întrebările adevărate de la bun început. Mulțumesc că faci parte din viața mea, Cosmina!"
+      },
+      {
+        "name": "Manon Lacasse — ICI",
+        "text": "În 2 întâlniri și privind în urmă... mi-am dat seama că sunt mai centrată pe mine... ceea ce are ca rezultat că mă îngrijorez mult mai puțin cu aspectul monetar. Știu în adâncul meu că nu voi duce lipsă de nimic. Mă iubesc mai mult, am mai multă încredere în mine și în viață!!"
+      },
+      {
+        "name": "Antoneta Dumitrașcu — Educator Specializat Autism",
+        "text": "Cosmina mi-a oferit un cadru în care am învățat să am încredere în oameni. Fără judecată, respectându-mi limitele și ritmul. Mă simt liberă, acceptată, înțeleasă. Cu ea, sunt Eu însămi."
+      }
+    ],
+    "testimonialsToarot": [
+      {
+        "name": "Brenda",
+        "text": "A very spot on reading. I was very impressed at how accurate Cosmina described the different situations of my life and She pointed out the areas that I need to work on in order to achieve my desired result. Truly inspiring and accurate!"
+      },
+      {
+        "name": "Milena",
+        "text": "Cosmina's reading was simply amazing. Her insights were spot on and beyond what I had imagined. She shed light onto many things that brought clarity, resolution and reassurance."
+      },
+      {
+        "name": "Beverly DeMagnus",
+        "text": "Cosmina's Tarot Card Reading was spot on in reference to not only myself, but also included a few immediate family members. In her gentle manner, she thoroughly explained the cards in a way for me to immediately apply the information to my life."
+      },
+      {
+        "name": "Kay",
+        "text": "Extremely impressed by the speed of how we picked the cards, yet she was so precise and spot-on to provide exact descriptions of what would happen. Cosmina is clearly tapping into some Universal Source Energy."
+      }
+    ]
+  },
+  "story": {
+    "heading": "Povestea Mea",
+    "vision": "Să trăiesc într-o lume eliberată de frică",
+    "visionLabel": "Viziunea Mea",
+    "mission": "Lider activ în co-crearea unei lumi noi, lipsită de frică! Lider activ în co-crearea unei lumi ELIBERATE de limite și condiționări!",
+    "missionLabel": "Misiunea mea De Viață",
+    "body": "Am venit pe această planetă frumoasă, în România, sub regimul comunist al lui Ceaușescu. Programată încă de mică cu valori limitative și condiționare bazată pe frică, am decis într-o zi să mă eliberez — să-mi găsesc vocea, puterea, viața. Sunt foarte recunoscătoare în special fiicei mele, Sabina. Acum ofer programe de coaching și mentorat pentru a-i ajuta pe alții pe același drum al eliberării.",
+    "guideHeading": "Sunt ghidul tău perfect dacă vrei:",
+    "guideList": [
+      "Să-ți descoperi VOCEA!",
+      "Să te eliberezi de Condiționarea Socială!",
+      "Ca opiniile celorlalți să nu te afecteze",
+      "Să co-creem o lume lipsită de frică!",
+      "Să trăim o viață în bucurie!"
+    ],
+    "timelineHeading": "Parcurs profesional",
+    "timelineEvents": [
+      {
+        "year": "Sept. 2024",
+        "event": "Atelier \"Upgrade the Healer\" — bazele vindecării, evaluarea clientului, pregătirea spațiului, gestionarea ședinței"
+      },
+      {
+        "year": "Aug. 2024",
+        "event": "\"Healer's Class\" cu Inelia Benz — întruchipare pristină și lignaje de vindecare"
+      },
+      {
+        "year": "2019–prezent",
+        "event": "\"Vocea mea exprimată liber\" — putere personală și creare conștientă"
+      },
+      {
+        "year": "2018–2021",
+        "event": "Ateliere cu Franco DeNicola — realitatea matriceală și alinierea conștiinței"
+      },
+      {
+        "year": "2018–2019",
+        "event": "Mentorat cu Inelia Benz — depășirea mentalității de victimă, descoperirea vocii personale"
+      },
+      {
+        "year": "2017",
+        "event": "Certificată Coach Profesionistă în PNL — Institutul de Coaching Internațional"
+      },
+      {
+        "year": "2015–2017",
+        "event": "Ateliere cu Alexandre Nadeau — transformare umană"
+      },
+      {
+        "year": "2015",
+        "event": "\"The School for The Work\" a lui Byron Katie — suferința este opțională"
+      },
+      {
+        "year": "2015",
+        "event": "Călătorie spirituală de două săptămâni în India — yoga și meditație"
+      },
+      {
+        "year": "2015",
+        "event": "Programul de coaching 100K Challenge al Laurei Langemeier"
+      },
+      {
+        "year": "2007",
+        "event": "Divorț — «Iubirea nu este suficientă într-o relație»"
+      },
+      {
+        "year": "2006",
+        "event": "Curriculum Landmark Forum"
+      },
+      {
+        "year": "1998",
+        "event": "Imigrare în Canada"
+      }
+    ],
+    "newsletterCta": "Abonează-te pentru a crea o lume lipsită de frică!"
+  },
+  "contact": {
+    "heading": "Contact Cosmina Balu",
+    "subheading": "Cel mai important lucru pentru mine este să trăiesc într-o lume lipsită de frică. Și pentru tine? Hai să co-creem această lume!",
+    "tagline1": "Hai să co-creem o lume lipsită de frică!",
+    "tagline2": "Găsește-ți vocea!",
+    "followLabel": "Rămânem în contact"
+  },
+  "blog": {
+    "heading": "Blog",
+    "mission": "Mon but avec ce travail",
+    "readMore": "Citește mai mult",
+    "backToBlog": "Înapoi la blog",
+    "categories": {
+      "Amour": "Dragoste",
+      "Femme": "Femei",
+      "Spiritualite": "Spiritualitate",
+      "Relations": "Relații"
+    }
+  },
+  "footer": {
+    "tagline1": "Hai să co-creem o lume lipsită de frică!",
+    "tagline2": "Găsește-ți vocea!",
+    "keepInTouch": "Rămânem în contact",
+    "latestNews": "Ultimele articole",
+    "copyright": "Toate drepturile rezervate © Cosmina Balu 2026",
+    "disclaimer": "Declinare de responsabilitate și drepturi de autor",
+    "privacy": "Politici de confidențialitate"
+  },
+  "meta": {
+    "siteTitle": "Cosmina Balu – Găsește-ți vocea",
+    "siteDescription": "Coach de transformare personală și spirituală. Descoperă-ți vocea, eliberează-te de condiționarea socială și trăiește în bucurie.",
+    "homeTitle": "Cosmina Balu – Găsește-ți vocea",
+    "homeDescription": "Pentru a trăi o viață de bucurie și iubire. Coaching de transformare personală cu Cosmina Balu.",
+    "servicesTitle": "Servicii de Coaching – Cosmina Balu",
+    "servicesDescription": "Programe de coaching personalizate: voce și curaj, bucurie și autenticitate, manifestare relațională, libertatea de a fi.",
+    "blogTitle": "Blog – Cosmina Balu",
+    "blogDescription": "Articole despre transformarea personală, iubire, spiritualitate și libertatea de exprimare.",
+    "storyTitle": "Povestea Mea – Cosmina Balu",
+    "storyDescription": "Povestea lui Cosmina Balu: de la România comunistă la libertatea interioară. Coach certificată în PNL.",
+    "contactTitle": "Contact – Cosmina Balu",
+    "contactDescription": "Contactează-o pe Cosmina Balu pentru a discuta despre un program de coaching personalizat."
+  },
+  "blogTitles": {
+    "appelaction": "Un Apel la Acțiune!",
+    "relation-amoureuse": "Cum să creezi o relație amoroasă hrănitoare",
+    "inspiration-au-feminin": "Inspirație la feminin",
+    "ne-plus-chercher-amour": "Nu mai căuta iubirea în afara ta",
+    "apel-la-actiune": "Un Apel la Acțiune!",
+    "relatia-amoroasa": "Cum să creezi o relație amoroasă hrănitoare",
+    "call-to-action": "Un Apel la Acțiune!",
+    "nurturing-love-relationship": "Cum să creezi o relație amoroasă hrănitoare",
+    "feminine-inspiration": "Inspirație la feminin",
+    "stop-seeking-love": "Nu mai căuta iubirea",
+    "inspiratie-la-feminin": "Femeia de carieră, mama, vizionara",
+    "nu-mai-cauta-iubirea": "Nu mai căuta Iubirea, găsește-o"
+  }
+}

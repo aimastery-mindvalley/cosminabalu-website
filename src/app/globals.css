@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand-red: #CE1B28;
+  --brand-black: #222222;
+  --brand-black-light: #323232;
+  --brand-gray: #8e8e8e;
+  --brand-gray-light: #d3d3d3;
+  --brand-gray-pale: #efefef;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: var(--brand-black);
+  background: #ffffff;
+  font-family: var(--font-fira-sans), sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+h1 { font-family: var(--font-fira-sans), sans-serif; font-weight: 700; font-size: 38px; }
+h2 { font-family: var(--font-fira-sans), sans-serif; font-weight: 700; font-size: 32px; }
+h3 { font-family: var(--font-fira-sans), sans-serif; font-weight: 700; font-size: 26px; }
+h4 { font-family: var(--font-fira-sans), sans-serif; font-weight: 700; font-size: 22px; }
+h5 { font-family: var(--font-fira-sans), sans-serif; font-weight: 700; font-size: 18px; }
+h6 { font-family: var(--font-fira-sans), sans-serif; font-weight: 700; font-size: 16px; }
+
+.text-brand-red { color: var(--brand-red); }
+.bg-brand-red { background-color: var(--brand-red); }
+.border-brand-red { border-color: var(--brand-red); }
+
+/* Diamond divider */
+.diamond-divider::before {
+  content: "♦♦♦";
+  display: block;
+  text-align: center;
+  color: var(--brand-red);
+  font-size: 1.25rem;
+  letter-spacing: 0.5rem;
+  margin: 2rem 0;
+}

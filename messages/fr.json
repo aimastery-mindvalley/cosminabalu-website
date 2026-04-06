@@ -1,0 +1,266 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "blog": "Blog",
+    "story": "Mon Histoire",
+    "contact": "Contact"
+  },
+  "home": {
+    "heroHeading": "Pour expérimenter une vie de joie et d'amour! Trouve ta voix!",
+    "heroBodyHeading": "Pour expérimenter une vie de joie et d'amour!\nTrouve ta voix!",
+    "heroParagraph1": "Pour vous qui avez déjà initié le chemin de la transformation et de la découverte, mais vous sentez coincées parce que vous vous retrouvez encore tomber dans des moments où vous vous inquiétez des opinions des autres concernant vos choix, vos actes, vos décisions. Vous tombez dans le piège de « ce que les autres disent de moi » une sorte de soumission à leur autorité, de validation, d'approbation ou appréciation. Vous trouvez que votre voix est cassée, est sans force, sans vie, que vous adopter le comportement de « People pleaser »",
+    "heroParagraph2": "Vous vous sentez bloquée, vous ne prenez pas de chance, vous avez peur d'exprimer vos propres opinions et votre vérité?",
+    "heroParagraph3": "Vous êtes une âme rebelle? C'est le temps de libérer votre âme et d'exprimer votre unicité.",
+    "heroParagraph4": "Je vais vous montrer des techniques simples, intuitives et guidées pour travailler avec vous progressivement sur le chemin de l'évolution de soi. Des fois, un simple changement de vocabulaire que je vais vous enseigner, va faciliter énormément votre transformation.",
+    "servicesHeading": "Mes Services de Coaching",
+    "service1": "Coincée dans la vie? => Ne prend aucun risque, peur de dire la vérité? => Parle sans peur! Trouve Ta Voix!",
+    "service2": "Ennuyée, Triste? => Sors de ta coquille. Sois authentique. Sois enjouée. Retrouve la joie!",
+    "service3": "Seule dans ta baraque? => Manifeste un partenaire intime!",
+    "service4": "Trouve la liberté d'être!",
+    "service5": "Lecture du Tarot => guidance pour le moment présent",
+    "servicesCta": "Découvrez mes Services de Coaching",
+    "aboutBadge": "Coach & Teacher & Mentor",
+    "aboutHeading": "Un aperçu sur Cosmina",
+    "aboutIntro": "Depuis le début de mon incarnation sur la planète on m'a répété sans cesse:",
+    "aboutList": [
+      "Que je suis une pauvre petite fille abandonnée par mes parents,",
+      "Que je dois prouver que je mérite d'être nourrie, acceptée et aimée,",
+      "Que je ne peux pas faire ce que je veux mais ce qui m'est permis de faire,",
+      "Que je ne mérite rien de la vie, Que mon seul mérite c'est d'être punie,",
+      "Car je vaux rien,",
+      "Que je doit être responsable et redevable aux personnes qui m'ont dit qu'elles se sont sacrifiées pour moi,",
+      "Que, moi aussi, j'ai le devoir de me sacrifier,",
+      "Parce que c'est comme ça chez nous!"
+    ],
+    "aboutParagraph2": "J'ai voyagé lourd avec toutes ces croyances, traditions, limites dans mon inconscient jusqu'à un jour quand j'ai pris la décision de me libérer et de trouver ma voix, mon pouvoir, ma vie, moi. Maintenant je suis la route de ma vie de liberté, de pouvoir et d'amour.",
+    "aboutJoy": "La Joie est ma Boussole!",
+    "aboutTarot": "Sur mon cheminement spirituel j'ai découvert les cartes du TAROT! Une merveille à utiliser comme outil de guidance dans notre quotidien.",
+    "aboutCta": "Détails sur Mon Histoire Personnelle",
+    "newsletterHeading": "Co-créons un monde sans peur !",
+    "newsletterName": "Nom & Prénom",
+    "newsletterEmail": "Adresse Email",
+    "newsletterButton": "S'inscrire",
+    "heroTitle": "Trouve Ta Voix",
+    "heroSubtitle": "Coaching personnalisé"
+  },
+  "services": {
+    "heading": "Services",
+    "subheading": "Mes services sont adressés aux personnes qui sont déterminées à vivre libres des limites imposées artificiellement!",
+    "path1Title": "Parcours de Coaching 1: Parler sans peur aux autorités!",
+    "path1Present": "1. Présentement vous avez la trouille quand vous devez parler avec les personnes en position d'autorité.",
+    "path1Journey": "2. Vous apprenez à vous libérer de la peur qui vous paralyse",
+    "path1Result": "3. Vous trouvez la liberté de parole! Devenez votre propre autorité! Fantastique!",
+    "path2Title": "Parcours de Coaching 2: Découvrir ce que vous voulez vivre",
+    "path2Present": "1. Présentement vous souffrez quand vous voyez ce qui se passe dans le monde",
+    "path2Journey": "2. Vous apprenez à développer l'état de Neutralité – Voir la Perfection dans tout",
+    "path2Result": "3. Vous tournez le regard vers vous-même et découvrez ce que vous voulez vivre !",
+    "path3Title": "Parcours de Coaching 3: Manifester un partenaire intime",
+    "path3Present": "1. Présentement vous êtes seule et vous voulez être en couple",
+    "path3Journey": "2. Vous apprenez comment devenir, vous-même, pour vous-même, un partenaire idéal",
+    "path3Result": "3. Vous laissez-venir votre partenaire dans votre vie",
+    "path4Title": "Parcours de Coaching 4: Trouver la liberté d'être!",
+    "path4Present": "1. Présentement vous travaillez fort, vous ne vous donnez pas un temps d'arrêt",
+    "path4Journey": "2. Apprenez à ne rien FAIRE! Apprenez ÊTRE!",
+    "path4Result": "3. Vous trouvez la liberté d'être! Vous vivez la vie !",
+    "tarotTitle": "La première rencontre: Lecture des cartes du TAROT",
+    "tarotHeading": "Tarot",
+    "tarotText": "Les cartes du Tarot sont un outil que je trouve extrêmement poussant et je l'utilise comme un outil de guidance pendant le parcours de la personne. Voici quelques témoignages des personnes qui ont bénéficié de cet outil tellement puissant.",
+    "tarotInspiration": "Justine Alessi, Deborah Waltz et Inelia Benz ont été mes inspirations sur ce cheminement.",
+    "testimonialsCoachingTitle": "Témoignages - Coaching",
+    "tarotTestimonialsTitle": "Témoignages - TAROT",
+    "ctaText": "Contactez-moi afin de discuter plus en détails maintenant!",
+    "ctaButton": "Message",
+    "presentLabel": "État présent",
+    "journeyLabel": "La démarche",
+    "resultLabel": "Le résultat",
+    "testimonialsCoaching": [
+      {
+        "name": "Sophie Ganfalean",
+        "text": "Cosmina a été pour moi un guide dans la compréhension de mes émotions et mes gestes. Avec son soutien et son aide, j'ai pu comprendre peu à peu ce qui n'allait pas et avancer vers la direction que je voulais réellement, malgré les obstacles qui se sont posé sur mon chemin. J'ai réussi à grandir dans mon estime de moi et voir de belles améliorations dans ma vie. Sans son support, je serais probablement dans le noir à chercher la lumière."
+      },
+      {
+        "name": "Lamyaa Boulajouahel",
+        "text": "Sans me rendre compte, Je vivais dans un monde de regret et de culpabilité. Cosmina m'a aidé à mettre la main sur le bobo qui me rendait toujours triste. Cosmina m'a montré comment éliminer les idées noir et penser d'une manière positive. Cosmina à un grand sens d'écoute, inspire une très grande confiance et sait comment me mettre très à l'aise. Après les séances avec Cosmina, je sors toujours avec un sentiment d'avoir grandi, optimiste et plein d'énergie. Je remercie la vie de t'avoir mis sur mon chemin."
+      },
+      {
+        "name": "Hind Dakramanje — TD Assurance",
+        "text": "En l'espace d'un an, je suis devenue complètement une autre personne. Je me suis surpassée sur tous les plans. Cosmina m'a aidé à fait sortir le meilleure de moi-même, à ouvrir les yeux, à voir les choses telles quelles sont. Elle m'a aidé à devenir cette femme forte qui atteind tous ses objectifs. C'est incroyable tout ce quelle a pu m'aider à réaliser. Je suis tellement choyée d'avoir eu la chance de faire des séances avec elle. C'est la meilleure, je la recommande à tout le monde."
+      },
+      {
+        "name": "Coralie Siohan — TD Assurance",
+        "text": "J'ai rencontré Cosmina à mon travail, elle était ma voisine de bureau. Ca a été une veritable chance de l'avoir là si près tous les jours. Cosmina rend la vie plus belle, par sa bonne humeur contagieuse, par sa façon de traverser les moments difficiles. Elle est un modèle d'inspiration. Elle m'a guidé dans mon exploration intérieure, j'ai pu passé du stade où je subissais chaque émotion à l'analyse de l'émotion elle même. Par ses questions pertinentes, petit à petit j'ai grandi. Merci Cosmina, merci beaucoup pour tout ce que tu m'as apporté, tu embellis le monde par ta joie de vivre. Continue ! Merci !!!"
+      },
+      {
+        "name": "Iulia Vlad — Artiste",
+        "text": "J'ai rencontré Cosmina dans une période transitoire de ma vie quand j'essayais de comprendre certaines choses afin de prendre de meilleures décisions pour mon bien-être futur. Non seulement elle m'a donné des conseils très complets, mais elle était constamment là pour moi en tant qu'amie. Dès le début, j'admirais son énergie et sa sagesse. Merci!"
+      },
+      {
+        "name": "Kay Thiri Khine — TDA",
+        "text": "Qu'y a-t-il de si unique dans Cosmina? C'est une personne rare qui s'inquiète vraiment pour vous et vous sentez qu'elle est présente chaque fois que vous êtes avec elle. Elle n'est pas « ailleurs », elle est vraiment présente. De nos jours, c'est rare. C'est toujours une joyeuse occasion d'être en sa présence."
+      },
+      {
+        "name": "Manon Lacasse — Institut Coaching International",
+        "text": "En 2 rencontres et avec du recul.. je me suis rendue compte que je suis plus centré en moi… ce qui a pour résultat que je m en fait bcp moins avec le côté monétaire. Je sais au plus profond de moi que je ne manquerais de rien. Je suis plus solidement ancrée dans ma personnalité et ce que les gens peuvent penser de moi m importe bcp moins. Je m aime plus, j ai une plus grande confiance en moi et en la vie!!"
+      },
+      {
+        "name": "Andreea Dumitrescu",
+        "text": "Je me sentais coincée à un moment de ma vie, même si je savais que j'avais un avenir incroyable devant moi. Cosmina m'a aidé à voir le monde différemment et aussi à comprendre que je contrôle ma vie."
+      },
+      {
+        "name": "Lali Torma — Artiste Peintre",
+        "text": "Cosmina est une force de la nature. Lorsqu'on ouvre la porte et voit son regard vif et son grand sourire, on est charmé sur-le-champ. Son authenticité fait en sorte qu'elle pose les vraies questions dès le départ. On accède alors immédiatement à la version la plus honnête de soi-même et on commence à y répondre. Merci de faire partie de ma vie, Cosmina!"
+      },
+      {
+        "name": "Antoneta Dumitrascu",
+        "text": "Cosmina m'a offert un cadre dans lequel j'ai appris à avoir confiance dans les gens. En étant un modèle pour moi, elle m'a permis d'aller explorer d'avantage les relations interpersonnelles. Elle m'a guidé dans mes apprentissages sans jugement en respectant mes limites et mon rythme. Avec elle, je suis Moi-même."
+      }
+    ],
+    "testimonialsToarot": [
+      {
+        "name": "Brenda",
+        "text": "A very spot on reading. I was very impressed at how accurate Cosmina described the different situations of my life and She pointed out the areas that I need to work on in order to achieve my desired result. Truly inspiring and accurate!"
+      },
+      {
+        "name": "Milena",
+        "text": "Cosmina's reading was simply amazing. Her insights were spot on and beyond what I had imagined. She shed light onto many things that brought clarity, resolution and reassurance. If you want clarity, guidance and reassurance that you're on the right path, a reading with Cosmina will give you that and more."
+      },
+      {
+        "name": "Beverly DeMagnus",
+        "text": "Cosmina's Tarot Card Reading was spot on in reference to not only myself, but also included a few immediate family members. In her gentle manner, she thoroughly explained the cards in a way for me to immediately apply the information to my life."
+      },
+      {
+        "name": "Kay",
+        "text": "Extremely impressed by the speed of how we picked the cards, yet she was so precise and spot-on to provide exact descriptions of what would happen. Which many of her predictions already have happened months after the reading! Cosmina is clearly tapping into some Universal Source Energy."
+      }
+    ]
+  },
+  "story": {
+    "heading": "Mon Histoire",
+    "vision": "Vivre dans un monde libéré de la peur",
+    "visionLabel": "Vision",
+    "mission": "Guider des millions des personnes à trouver leur voix d'intégrité et de pouvoir!",
+    "missionLabel": "Mission",
+    "body": "Cosmina est née en Roumanie sous le régime communiste. Programmée dès l'enfance avec des valeurs limitantes et un conditionnement basé sur la peur, elle a décidé un jour de se libérer — de trouver sa voix, son pouvoir, sa vie. Elle offre aujourd'hui des programmes de coaching et de mentorat pour accompagner d'autres dans ce même chemin de libération.",
+    "guideHeading": "Je suis votre guide parfait si vous voulez:",
+    "guideList": [
+      "Trouver ta VOIX!",
+      "Te libérer du Conditionnement Social!",
+      "Que les Opinions des Autres n'aient pas d'effet sur toi",
+      "Co-Créer un monde sans peur!",
+      "Vivre dans la Joie!"
+    ],
+    "timelineHeading": "Parcours professionnel",
+    "timelineEvents": [
+      {
+        "year": "Sept. 2024",
+        "event": "Atelier \"Upgrade the Healer\" — bases de la guérison, évaluation du client, préparation de l'espace, gestion de séance"
+      },
+      {
+        "year": "Août 2024",
+        "event": "\"Healer's Class\" avec Inelia Benz — incarnation pristine et lignées de guérison"
+      },
+      {
+        "year": "2019–présent",
+        "event": "\"Discover My Voice\" — pouvoir personnel et création consciente; sexualité sacrée"
+      },
+      {
+        "year": "2018–2021",
+        "event": "Ateliers avec Franco DeNicola — réalité matricielle et alignement de conscience"
+      },
+      {
+        "year": "2018–2019",
+        "event": "Mentorat avec Inelia Benz — surmonter le mentalité de victime, découvrir sa voix personnelle"
+      },
+      {
+        "year": "2017",
+        "event": "Certifiée Coach Professionnelle en PNL — Institut de Coaching International"
+      },
+      {
+        "year": "2015–2017",
+        "event": "Ateliers avec Alexandre Nadeau — transformation humaine"
+      },
+      {
+        "year": "2015",
+        "event": "\"The School for The Work\" de Byron Katie — la souffrance est optionnelle"
+      },
+      {
+        "year": "2015",
+        "event": "Voyage spirituel de deux semaines en Inde — yoga et méditation"
+      },
+      {
+        "year": "2015",
+        "event": "Programme de coaching 100K Challenge de Laura Langemeier"
+      },
+      {
+        "year": "2007",
+        "event": "Divorce — « L'amour ne suffit pas dans une relation »"
+      },
+      {
+        "year": "2006",
+        "event": "Curriculum Landmark Forum"
+      },
+      {
+        "year": "1998",
+        "event": "Immigration au Canada"
+      }
+    ],
+    "newsletterCta": "Inscription pour co-créer un monde sans peur !"
+  },
+  "contact": {
+    "heading": "Contact Cosmina Balu",
+    "subheading": "Le plus important pour moi c'est de vivre dans un monde sans peur. Et pour toi?",
+    "tagline1": "Construisons un monde sans peur!",
+    "tagline2": "Trouve ta voix!",
+    "followLabel": "Gardons contact"
+  },
+  "blog": {
+    "heading": "Blog",
+    "mission": "Mon but avec ce travail",
+    "readMore": "Lire la suite",
+    "backToBlog": "Retour au blog",
+    "categories": {
+      "Amour": "Amour",
+      "Femme": "Femme",
+      "Spiritualite": "Spiritualité",
+      "Relations": "Relations"
+    }
+  },
+  "footer": {
+    "tagline1": "Construisons un monde sans peur!",
+    "tagline2": "Trouve ta voix!",
+    "keepInTouch": "Gardons contact",
+    "latestNews": "Derniers articles",
+    "copyright": "Tous droits réservés © Cosmina Balu 2026",
+    "disclaimer": "Déni de responsabilité et droits d'auteur",
+    "privacy": "Politiques de confidentialité"
+  },
+  "meta": {
+    "siteTitle": "Cosmina Balu – Trouve Ta Voix",
+    "siteDescription": "Coach de transformation personnelle et spirituelle. Découvrez votre voix, libérez-vous du conditionnement social et vivez dans la joie.",
+    "homeTitle": "Cosmina Balu – Trouve Ta Voix",
+    "homeDescription": "Pour expérimenter une vie de joie et d'amour. Coaching de transformation personnelle avec Cosmina Balu à Montréal.",
+    "servicesTitle": "Services de Coaching – Cosmina Balu",
+    "servicesDescription": "Programmes de coaching personnalisés: voix et courage, joie et authenticité, manifestation relationnelle, liberté d'être.",
+    "blogTitle": "Blog – Cosmina Balu",
+    "blogDescription": "Articles sur la transformation personnelle, l'amour, la spiritualité et la liberté d'expression.",
+    "storyTitle": "Mon Histoire – Cosmina Balu",
+    "storyDescription": "L'histoire de Cosmina Balu: de la Roumanie communiste à la liberté intérieure. Coach certifiée en PNL à Montréal.",
+    "contactTitle": "Contact – Cosmina Balu",
+    "contactDescription": "Contactez Cosmina Balu pour discuter d'un parcours de coaching personnalisé."
+  },
+  "blogTitles": {
+    "appelaction": "Appel à l'Action!",
+    "relation-amoureuse": "Comment créer une relation amoureuse nourrissante",
+    "inspiration-au-feminin": "Inspiration au féminin",
+    "ne-plus-chercher-amour": "Ne plus chercher l'amour à l'extérieur de soi",
+    "relatia-amoroasa": "Comment créer une relation amoureuse nourrissante",
+    "apel-la-actiune": "Appel à l'Action!",
+    "call-to-action": "Appel à l'Action!",
+    "nurturing-love-relationship": "Comment créer une relation amoureuse nourrissante",
+    "feminine-inspiration": "Inspiration au féminin",
+    "stop-seeking-love": "Ne plus chercher l'amour",
+    "inspiratie-la-feminin": "Inspiration au féminin",
+    "nu-mai-cauta-iubirea": "Ne plus chercher l'amour"
+  }
+}

@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# AI crawlers — allowed for LLM discoverability
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://cosminabalu.com/sitemap.xml
