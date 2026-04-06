@@ -1,4 +1,4 @@
-import { NextIntlClientProvider, type AbstractIntlMessages } from "next-intl";
+import { NextIntlClientProvider } from "next-intl";
 import { getTranslations } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
@@ -57,7 +57,7 @@ export default async function LocaleLayout({ children, params }: Props) {
   const messages = (await messageLoaders[locale as keyof typeof messageLoaders]()).default;
 
   return (
-    <NextIntlClientProvider locale={locale} messages={messages as unknown as AbstractIntlMessages}>
+    <NextIntlClientProvider locale={locale} messages={messages as any}>
       <Header locale={locale} />
       <main>{children}</main>
       <Footer locale={locale} />
