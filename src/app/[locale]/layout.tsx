@@ -57,7 +57,7 @@ export default async function LocaleLayout({ children, params }: Props) {
   const messages = (await messageLoaders[locale as keyof typeof messageLoaders]()).default;
 
   return (
-    <NextIntlClientProvider locale={locale} messages={messages as AbstractIntlMessages}>
+    <NextIntlClientProvider locale={locale} messages={messages as unknown as AbstractIntlMessages}>
       <Header locale={locale} />
       <main>{children}</main>
       <Footer locale={locale} />
